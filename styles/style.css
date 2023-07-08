@@ -169,3 +169,11 @@ section {
     display: flex;
     gap: 30px;
 }
+
+footer {
+    padding: 34px 0;
+}
+
+.footer-description {
+    text-align: center;
+}
